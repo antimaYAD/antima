@@ -1,4 +1,4 @@
-# antima
+# Antima
 <br>
 Antima Yadav
 Aspiring Data Scientist & Machine Learning Engineer
